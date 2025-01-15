@@ -6,6 +6,8 @@
 
 - 💻 **Developer since:** 2023
 - 📚 **Currently learning:** AI, Golang, AWS
+- 🚀 **Passionate about:** Creating innovative solutions
+- 🌱 **Status:** Always learning, always growing
 
 ## Technologies and Tools
 
@@ -30,6 +32,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebagabe-dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebagabe-dev&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe-dev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe-dev&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebagabe-dev&theme=radical&hide_border=true)
