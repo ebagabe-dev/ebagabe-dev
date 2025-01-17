@@ -34,6 +34,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebagabe-dev&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe-dev&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe-dev&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebagabe-dev&theme=radical&hide_border=true)
